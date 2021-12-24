@@ -24,3 +24,6 @@ e. Use otu_labels for the text values.
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
 6. Update all of the plots any time that a new sample is selected.
+
+
+Code can be viewed in the app.js file located in the StarterCode folder under js folder.
