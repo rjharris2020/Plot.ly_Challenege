@@ -26,4 +26,4 @@ e. Use otu_labels for the text values.
 6. Update all of the plots any time that a new sample is selected.
 
 
-Code can be viewed in the app.js file located in the StarterCode folder under js folder.
+Code can be viewed in the app.js file located in the StarterCode folder under static/js folder.
