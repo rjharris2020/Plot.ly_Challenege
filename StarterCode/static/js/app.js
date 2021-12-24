@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 // function the populates the metadata
 function demoInfo(sample)
 {
@@ -109,7 +102,6 @@ function buildBubbleChart(sample)
         let sample_values = resultData.sample_values;
      
         // build the bubble chart
-
         let bubbleChart = {
             y: sample_values,
             x: otu_ids,
